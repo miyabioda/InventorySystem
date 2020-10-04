@@ -294,7 +294,7 @@
             this.iconButton6.IconChar = FontAwesome.Sharp.IconChar.WindowMinimize;
             this.iconButton6.IconColor = System.Drawing.Color.Gainsboro;
             this.iconButton6.IconSize = 26;
-            this.iconButton6.Location = new System.Drawing.Point(527, 2);
+            this.iconButton6.Location = new System.Drawing.Point(492, 11);
             this.iconButton6.Margin = new System.Windows.Forms.Padding(2);
             this.iconButton6.Name = "iconButton6";
             this.iconButton6.Rotation = 0D;
@@ -316,7 +316,7 @@
             this.iconButton5.IconColor = System.Drawing.Color.Gainsboro;
             this.iconButton5.IconSize = 26;
             this.iconButton5.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.iconButton5.Location = new System.Drawing.Point(550, 2);
+            this.iconButton5.Location = new System.Drawing.Point(522, 11);
             this.iconButton5.Margin = new System.Windows.Forms.Padding(2);
             this.iconButton5.Name = "iconButton5";
             this.iconButton5.Rotation = 0D;
